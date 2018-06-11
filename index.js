@@ -26,10 +26,5 @@ function sayHiToGrandma(string){
   
 }
 
-var art = function logWhisper(string) {
-  console.log(string.toLowerCase())
-}
-art=logWhisper(string.toLowerCase())
-
 
 
